@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anniversary Treasure Hunt ❤️</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=MedievalSharp&display=swap" rel="stylesheet">
+
+    <!-- Confetti -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>❤️ Anniversary Treasure Hunt ❤️</h1>
+
+    <div class="progress-wrapper">
+        <div class="progress">
+            <div id="progressBar"></div>
+        </div>
+    </div>
+
+    <div id="game"></div>
+
+</div>
+
+<!-- The Modal -->
+<div id="mapModal" class="modal">
+    <span class="close-modal" onclick="closeMap()">&times;</span>
+    <img class="modal-content" src="images/3527d88b-a31e-43b4-b1a7-28b2bf79fb3b.png" id="expandedMap" alt="Large Fantasy Map">
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
