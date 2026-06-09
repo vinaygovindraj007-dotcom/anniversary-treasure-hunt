@@ -51,6 +51,10 @@ For when the lights surrender their glow,
 One voice commands them all.
 
 Seek the place where silence becomes power.
+And the eyes met led to today
+
+there hidden in the glory of the kingdom
+lies the next step of your journey.
 `,
 answer:"auditorium"
 },
@@ -60,11 +64,22 @@ title:"Step 4",
 text:`
 Across the seas where dreamers sail,
 Beyond each storm and every gale,
+A cheerful pirate led the way,
+And greeted you at the break of day.
+His greatest power was never strength,
 
-A cheerful pirate led the way.
+Nor how far he could stretch at length,
+But how he smiled through every fight,
 
-The one who protects the key
-is the one with the answer.
+And filled the darkest days with light.
+The first treasure placed in your hand,
+
+Was born from a far-off, wondrous land.
+A tiny companion, brave and free,
+
+Who now holds the next clue's key.
+The one who protects the key is the one with the answer
+.
 `,
 answer:"luffy"
 },
@@ -72,13 +87,18 @@ answer:"luffy"
 {
 title:"Step 5",
 text:`
-Find the citadel of healers
-that healed you.
+Here brave souls mend broken things,
+ Yet this clue grows hidden wings.
 
-A deity guards the keep.
+Look beyond these healing walls,
+ Toward the place where wisdom calls.
 
-Take the name of the deity
-and move forward.
+Countless dreamers pass its gate,
+ Preparing futures yet to create.
+
+Find the citadel of healers that healed you
+Deity guards the keep, take the name of the deity and move forward
+
 `,
 answer:"ganesha"
 },
@@ -88,14 +108,23 @@ title:"Step 6",
 text:`
 Before the roses came and went,
 Before the countless moments spent,
+There was a bloom on a special day,
+That quietly took my fears away.
 
-There was a bloom on a special day.
+Neither the red of a lover's flame,
+Nor the white of snow's pure name,
+
+Not yellow like the morning sun,
+Yet somehow it outshone every one.
 
 A shade worn by kings of old,
-A gentle mix of calm and bold.
+A gentle mix of calm and bold,
 
-Find the hue that ignited
-the sparks between.
+
+Find the hue that ignited the sparks between
+Speak its name to move ahead,
+And uncover the map to the key
+
 `,
 answer:"purple"
 },
@@ -109,12 +138,17 @@ You found the key.
 
 Open the first gift.
 
-The journey nears its final page.
+Wow nice you are quite fast well done
+The journey nears its final page,
 
-Seek the guardian.
+ Beyond the halls of learning's stage.
+A loyal guardian waits ahead,
 
-The haze of it unlocks
-the path forward.
+ Protecting what he must have built .
+
+Seek the guardian the haze of it
+unlocks the path forward
+
 `,
 answer:"golden"
 },
@@ -122,13 +156,23 @@ answer:"golden"
 {
 title:"Frame 8",
 text:`
-Seek the keeper of the hound.
+The quest is nearly at its end,
+Beyond the clues I chose to send.
 
-Knock upon the familiar door.
+Seek the keeper of the hound,
+ In the place where she is found.
 
-The sparks that dance bright and higher,
+Seek the keeper, loyal and true,
+For the faithful hound now waits with you.
 
-Utter its name.
+Knock upon the familiar door,
+And speak the word of ancient lore.
+
+The  sparks that dances, bright and higher,
+Utter its name, both warm and dire,
+
+And the hound shall answer
+
 `,
 answer:"fire"
 },
@@ -136,13 +180,23 @@ answer:"fire"
 {
 title:"❤️ Final Treasure ❤️",
 text:`
-The loyal hound has played its part.
+The loyal hound has played its part,
+Guarding a secret close to heart.
 
-Claim the key that the journey led you to.
+Seek not a key from distant lands,
 
-The treasure ahead is yours alone.
 
-A secret meant only for you.
+Look within, not far away,
+The answer has been there all day.
+
+Claim the key that the journey led you
+The treasure ahead is yours alone,
+
+A secret meant for you to own.
+When you reach the final lock and key,
+
+Let no other eyes its contents see.
+
 
 Happy Anniversary ❤️
 `,
